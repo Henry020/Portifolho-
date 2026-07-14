@@ -1,1 +1,1 @@
-# textes.py
+Pequenos codigos inicias de python
